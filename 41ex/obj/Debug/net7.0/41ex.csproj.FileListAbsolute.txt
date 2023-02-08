@@ -1,0 +1,15 @@
+/Users/home/domashka/41ex/bin/Debug/net7.0/41ex
+/Users/home/domashka/41ex/bin/Debug/net7.0/41ex.deps.json
+/Users/home/domashka/41ex/bin/Debug/net7.0/41ex.runtimeconfig.json
+/Users/home/domashka/41ex/bin/Debug/net7.0/41ex.dll
+/Users/home/domashka/41ex/bin/Debug/net7.0/41ex.pdb
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.csproj.AssemblyReference.cache
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.AssemblyInfoInputs.cache
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.AssemblyInfo.cs
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.csproj.CoreCompileInputs.cache
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.dll
+/Users/home/domashka/41ex/obj/Debug/net7.0/refint/41ex.dll
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.pdb
+/Users/home/domashka/41ex/obj/Debug/net7.0/41ex.genruntimeconfig.cache
+/Users/home/domashka/41ex/obj/Debug/net7.0/ref/41ex.dll
