@@ -1,0 +1,15 @@
+/Users/home/domashka/43ex/bin/Debug/net7.0/43ex
+/Users/home/domashka/43ex/bin/Debug/net7.0/43ex.deps.json
+/Users/home/domashka/43ex/bin/Debug/net7.0/43ex.runtimeconfig.json
+/Users/home/domashka/43ex/bin/Debug/net7.0/43ex.dll
+/Users/home/domashka/43ex/bin/Debug/net7.0/43ex.pdb
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.csproj.AssemblyReference.cache
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.AssemblyInfoInputs.cache
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.AssemblyInfo.cs
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.csproj.CoreCompileInputs.cache
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.dll
+/Users/home/domashka/43ex/obj/Debug/net7.0/refint/43ex.dll
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.pdb
+/Users/home/domashka/43ex/obj/Debug/net7.0/43ex.genruntimeconfig.cache
+/Users/home/domashka/43ex/obj/Debug/net7.0/ref/43ex.dll
